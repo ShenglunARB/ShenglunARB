@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm a Air Resources Engineer at Research Division in California Air Resources Board (CARB). Please contact me at shenglun.wu@arb.ca.gov for any questions!
+I'm a Air Resources Engineer at Research Division in California Air Resources Board (CARB). \
+Please contact me at shenglun.wu@arb.ca.gov for any questions!
 
 <!--
 **ShenglunARB/ShenglunARB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
